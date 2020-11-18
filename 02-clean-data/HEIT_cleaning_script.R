@@ -104,3 +104,6 @@ tracker$compliance <- ifelse(tracker$cyc5_current_compliance == "in" |
 cyc5_noncompliance <- subset(tracker, compliance == 0)
 
 write.csv(cyc5_noncompliance, "02-clean-data/HEIT_cycle5_noncompliance.csv")
+
+## Cleaned all cities data
+write.csv(tracker, "02-clean-data/HEIT_cycle5_all_cities.csv")

@@ -1,0 +1,540 @@
+"","Jurisdiction","County","COG","cyc5_projection_start","cyc5_projection_end","cyc5_planning_start","cyc5_planning_end","cyc5_current_compliance","cyc5_conditional_compliance","cyc5_cc_due","cyc5_cc_cleared","cyc5_planning_period_duration","req_4year_update","emergency_shelter_zone","cyc4_rezone_program","cyc4_unit_shortfall","cyc4_rezone_acres","cyc4_rezone_complete","cyc5_rezone_program","cyc5_unit_shortfall","cyc5_rezone_acres","cyc5_rezone_complete","charter_city","apr2013","apr2014","apr2015","apr2016","apr2017","apr2018","compliance"
+"1","ADELANTO","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","No","No",1
+"2","AGOURA HILLS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"3","ALAMEDA","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"4","ALAMEDA COUNTY","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"5","ALBANY","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","Yes","Yes","Yes",1
+"6","ALHAMBRA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"7","ALISO VIEJO","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in","Yes",2014-10-15,2014-10-01,"8 Year",NA,"Yes","Yes",274,NA,"Yes","No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"8","ALPINE COUNTY","Alpine County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"9","ALTURAS","Modoc County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"out (due)",NA,NA,NA,"5 Year",NA,"Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","No","No","No",0
+"10","AMADOR City","Amador County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"out (due)",NA,NA,NA,"5 Year",NA,"Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","No","No","No",0
+"11","AMADOR COUNTY","Amador County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"12","AMERICAN CANYON","Napa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"13","ANAHEIM","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"14","ANDERSON","Shasta County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes",1
+"15","ANGELS CAMP","Calaveras County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"16","ANTIOCH","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"17","APPLE VALLEY","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes",1
+"18","ARCADIA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"19","ARCATA","Humboldt County","Humboldt County Association of Governments",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"20","ARROYO GRANDE","San Luis Obispo County","SLOCOG",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"21","ARTESIA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in - conditional","Yes",2014-10-15,NA,"8 Year",NA,"Yes","Yes",27,NA,"No","Yes",49,NA,"No",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"22","ARVIN","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",269,NA,"Yes","No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"23","ATASCADERO","San Luis Obispo County","SLOCOG",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"24","ATHERTON","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"25","ATWATER","Merced County","Merced County Association of Governments",2014-01-01,2023-12-31,2016-03-31,2024-03-31,"out (adopted)",NA,NA,NA,"8 Year",NA,"No (Program)","Yes",19,10.1,"No","Yes",155,10.1,"No",NA,"No","Yes","Yes","Yes","Yes","Yes",0
+"26","AUBURN","Placer County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"27","AVALON","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"28","AVENAL","Kings County","Kings County Association of Governments",2014-01-01,2023-12-31,2016-01-31,2024-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","No","No","Yes","Yes",1
+"29","AZUSA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"30","BAKERSFIELD","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"31","BALDWIN PARK","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"32","BANNING","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"33","BARSTOW","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"34","BEAUMONT","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"35","BELL","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (draft)",NA,NA,NA,"8 year","Yes","Yes","Yes",18,NA,NA,"Yes",7,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","No",0
+"36","BELL GARDENS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"37","BELLFLOWER","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"38","BELMONT","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"39","BELVEDERE","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"40","BENICIA","Solano County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"41","BERKELEY","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"42","BEVERLY HILLS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"43","BIG BEAR LAKE","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"44","BIGGS","Butte County","Butte County Association of Governments",2014-01-01,2022-06-15,2014-06-15,2022-06-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","No","Yes","Yes",1
+"45","BISHOP","Inyo County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"46","BLUE LAKE","Humboldt County","Humboldt County Association of Governments",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"out (draft)",NA,NA,NA,"5 Year",NA,"TBD","TBD",NA,NA,NA,"TBD",NA,NA,NA,NA,"No","No","No","No","No","No",0
+"47","BLYTHE","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"48","BRADBURY","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (draft)",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",0
+"49","BRAWLEY","Imperial County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"50","BREA","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"51","BRENTWOOD","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"52","BRISBANE","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in","Yes",2016-01-31,2018-05-21,"8 Year",NA,"Yes","Yes",32,NA,"Yes","Yes",143,NA,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"53","BUELLTON","Santa Barbara County","Santa Barbara Council of Governments",2014-01-01,2022-09-30,2015-02-15,2023-02-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"54","BUENA PARK","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"55","BURBANK","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes","Yes",1
+"56","BURLINGAME","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"57","BUTTE COUNTY","Butte County","Butte County Association of Governments",2014-01-01,2022-06-15,2014-06-15,2022-06-15,"in","Yes",2015-06-15,2015-06-19,"8 Year",NA,"Yes","Yes",191,13,"Yes","No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"58","CALABASAS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"59","CALAVERAS COUNTY","Calaveras County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"60","CALEXICO","Imperial County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"61","CALIFORNIA CITY","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"62","CALIMESA","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"63","CALIPATRIA","Imperial County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","No",1
+"64","CALISTOGA","Napa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"65","CAMARILLO","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"66","CAMPBELL","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"67","CANYON LAKE","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (due)",NA,NA,NA,"8 year","Yes","Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",0
+"68","CAPITOLA","Santa Cruz County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"69","CARLSBAD","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"70","CARMEL","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"71","CARPINTERIA","Santa Barbara County","Santa Barbara Council of Governments",2014-01-01,2022-09-30,2015-02-15,2023-02-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"72","CARSON","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"73","CATHEDRAL","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"74","CERES","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"75","CERRITOS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"76","CHICO","Butte County","Butte County Association of Governments",2014-01-01,2022-06-15,2014-06-15,2022-06-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"77","CHINO","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"78","CHINO HILLS","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in","Yes",2014-10-15,2018-04-26,"8 Year",NA,"Yes","Yes",415,NA,"Yes","Yes",365,NA,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"79","CHOWCHILLA","Madera County","Madera County Transportation Commission",2014-01-01,2023-12-31,2016-01-31,2024-01-31,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"80","CHULA VISTA","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"81","CITRUS HEIGHTS","Sacramento County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"82","CLAREMONT","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (draft)",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"Yes",157,7,"Yes",NA,"No","No","No","No","Yes","Yes",0
+"83","CLAYTON","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"84","CLEARLAKE","Lake County","Lake County Areawide Planning Council",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"85","CLOVERDALE","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"86","CLOVIS","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in","Yes",2016-12-31,2019-03-25,"8 Year",NA,"Yes","Yes",NA,221,"Yes","No",NA,NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes",1
+"87","COACHELLA","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in - conditional","Yes",2014-10-15,NA,"8 Year",NA,"Yes","Yes",1916,NA,"No","Yes",2542,NA,"No",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"88","COALINGA","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"89","COLFAX","Placer County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","No","Yes","Yes",1
+"90","COLMA","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"91","COLTON","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"92","COLUSA","Colusa County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"93","COLUSA COUNTY","Colusa County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"94","COMMERCE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"95","COMPTON","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (draft)",NA,NA,NA,"8 year","Yes","No (Program)","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","No","No",0
+"96","CONCORD","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"97","CONTRA COSTA COUNTY","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"98","CORCORAN","Kings County","Kings County Association of Governments",2014-01-01,2023-12-31,2016-01-31,2024-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","No","No","No","No",1
+"99","CORNING","Tehama County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"100","CORONA","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"101","CORONADO","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"102","CORTE MADERA","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"103","COSTA MESA","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"104","COTATI","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"105","COVINA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (due)",NA,NA,NA,"8 year","Yes","Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","No","No","Yes",0
+"106","CRESCENT CITY","Del Norte County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"107","CUDAHY","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",154,NA,"Yes","Yes",126,NA,"Yes",NA,"No","Yes","No","Yes","No","No",1
+"108","CULVER CITY","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"109","CUPERTINO","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"110","CYPRESS","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes","Yes",1
+"111","DALY CITY","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"112","DANA POINT","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"113","DANVILLE","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"114","DAVIS","Yolo County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"115","DEL MAR","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"No (Program)","No",10,NA,"No","Yes",12,NA,"No","Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"116","DEL NORTE COUNTY","Del Norte County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"117","DEL REY OAKS","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"out (due)",NA,NA,NA,"8 year","Yes","Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","No","No","Yes",0
+"118","DELANO","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in","Yes",2016-12-31,2018-09-13,"8 Year",NA,"Yes","Yes",528,NA,"Yes","No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"119","DESERT HOT SPRINGS","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (draft)",NA,NA,NA,"8 year","Yes","Yes","Yes",3080,NA,"No","Yes",946,NA,"No","Yes","No","No","No","No","Yes","Yes",0
+"120","DIAMOND BAR","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"121","DINUBA","Tulare County","Tulare County Association of Governments",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"122","DIXON","Solano County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in","Yes",2016-01-31,2016-06-29,"8 Year",NA,"Yes","Yes",16,10.7,"Yes","No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"123","DORRIS","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","No","Yes","Yes",1
+"124","DOS PALOS","Merced County","Merced County Association of Governments",2014-01-01,2023-12-31,2016-03-31,2024-03-31,"out (due)",NA,NA,NA,"8 year","Yes","Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","No","No","No",0
+"125","DOWNEY","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes","Yes",1
+"126","DUARTE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"127","DUBLIN","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"128","DUNSMUIR","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"129","EAST PALO ALTO","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes",1
+"130","EASTVALE","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"131","EL CAJON","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",1363,NA,"No","Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"132","EL CENTRO","Imperial County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"133","EL CERRITO","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"134","EL DORADO COUNTY","El Dorado County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"135","EL MONTE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"136","EL SEGUNDO","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"137","ELK GROVE","Sacramento County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",1273,75,"No",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"138","EMERYVILLE","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"139","ENCINITAS","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"out (adopted)",NA,NA,NA,"8 year","Yes","Yes","Yes",253,NA,"Yes","Yes",888,NA,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",0
+"140","ESCALON","San Joaquin County","San Joaquin County Council of Governments ",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"141","ESCONDIDO","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"142","ETNA","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"143","EUREKA","Humboldt County","Humboldt County Association of Governments",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"144","EXETER","Tulare County","Tulare County Association of Governments",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"145","FAIRFAX","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in","Yes",2016-01-31,NA,"8 Year",NA,"Yes","Yes",35,3.24,"Yes","No",27,NA,"8-units remaining",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"146","FAIRFIELD","Solano County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"147","FARMERSVILLE","Tulare County","Tulare County Association of Governments",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"148","FERNDALE","Humboldt County","Humboldt County Association of Governments",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","No","No","No",1
+"149","FILLMORE","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (adopted)",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",61,NA,"No",NA,"No","No","No","No","No","No",0
+"150","FIREBAUGH","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"151","FOLSOM","Sacramento County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"152","FONTANA","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",1866,NA,"Yes","Yes",2416,NA,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"153","FORT BRAGG","Mendocino County","Mendocino Council of Governments ",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","No","No","Yes",1
+"154","FORT JONES","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"out (due)",NA,NA,NA,"5 Year",NA,"Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","No","No","No",0
+"155","FORTUNA","Humboldt County","Humboldt County Association of Governments",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"156","FOSTER CITY","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"157","FOUNTAIN VALLEY","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",162,6.49,"Yes",NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"158","FOWLER","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"159","FREMONT","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"160","FRESNO","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",6228,NA,"Yes","No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"161","FRESNO COUNTY","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes",1
+"162","FULLERTON","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"163","GALT","Sacramento County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"164","GARDEN GROVE","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"165","GARDENA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"166","GILROY","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","Yes","Yes","Yes","Yes",1
+"167","GLENDALE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"168","GLENDORA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"169","GLENN COUNTY","Glenn County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in","Yes",2015-06-30,2018-09-17,"5 Year",NA,"Yes","Yes",168,10.5,"yes","Yes",32,2,"No",NA,"No","Yes","Yes","Yes","Yes","No",1
+"170","GOLETA","Santa Barbara County","Santa Barbara Council of Governments",2014-01-01,2022-09-30,2015-02-15,2023-02-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"171","GONZALES","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"172","GRAND TERRACE","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"173","GRASS VALLEY","Nevada County","Sierra Planning Organization",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"174","GREENFIELD","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"175","GRIDLEY","Butte County","Butte County Association of Governments",2014-01-01,2022-06-15,2014-06-15,2022-06-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"176","GROVER BEACH","San Luis Obispo County","SLOCOG",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"177","GUADALUPE","Santa Barbara County","Santa Barbara Council of Governments",2014-01-01,2022-09-30,2015-02-15,2023-02-15,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"178","GUSTINE","Merced County","Merced County Association of Governments",2014-01-01,2023-12-31,2016-03-31,2024-03-31,"out",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"Yes",33,NA,"No",NA,"No","No","No","No","No","No",0
+"179","HALF MOON BAY","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"180","HANFORD","Kings County","Kings County Association of Governments",2014-01-01,2023-12-31,2016-01-31,2024-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"181","HAWAIIAN GARDENS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"182","HAWTHORNE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"183","HAYWARD","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"184","HEALDSBURG","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"185","HEMET","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"186","HERCULES","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"187","HERMOSA BEACH","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"188","HESPERIA","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"189","HIDDEN HILLS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"190","HIGHLAND","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"191","HILLSBOROUGH","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"192","HOLLISTER","San Benito County","San Benito County Council of Governments",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"193","HOLTVILLE","Imperial County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (draft)",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","No",0
+"194","HUGHSON","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"195","HUMBOLDT COUNTY","Humboldt County","Humboldt County Association of Governments",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"196","HUNTINGTON BEACH","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (adopted)",NA,NA,NA,"8 Year",NA,"Yes","TBD",NA,NA,NA,"TBD",NA,NA,NA,"Yes","No","No","No","No","No","No",0
+"197","HUNTINGTON PARK","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (due)",NA,NA,NA,"8 year","Yes","Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"Yes","No","No","No","No","No",0
+"198","HURON","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"199","IMPERIAL","Imperial County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (draft)",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",0
+"200","IMPERIAL BEACH","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"201","IMPERIAL COUNTY","Imperial County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"202","INDIAN WELLS","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"203","INDIO","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"204","INDUSTRY","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in","Yes",2015-02-11,2018-09-04,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",2,NA,"No","Yes","No","No","No","No","Yes","Yes",1
+"205","INGLEWOOD","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"206","INYO COUNTY","Inyo County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"207","IONE","Amador County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","Yes","Yes","Yes",1
+"208","IRVINE","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"209","IRWINDALE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"210","ISLETON","Sacramento County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"211","JACKSON","Amador County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"212","JURUPA VALLEY","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"213","KERMAN","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in - conditional","Yes",2016-12-31,NA,"8 Year",NA,"Yes","Yes",168,8.4,"Partial-still needs 2.4 acres rezoned","No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"214","KERN COUNTY","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in - conditional","Yes",2016-12-31,NA,"8 Year",NA,"Yes","Yes",432,33.57,"TBD","Yes",2528,180.57,"TBD",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"215","KING CITY","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","Yes","Yes","Yes","Yes",1
+"216","KINGS COUNTY","Kings County","Kings County Association of Governments",2014-01-01,2023-12-31,2016-01-31,2024-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","No","Yes","Yes",1
+"217","KINGSBURG","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","No","No","Yes","No",1
+"218","LA CANADA FLINTRIDGE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"219","LA HABRA","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in","Yes",2014-10-15,2018-05-21,"8 Year",NA,"Yes","Yes",77,9.97,"Yes","No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"220","LA HABRA HEIGHTS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (due)",NA,NA,NA,"8 year","Yes","Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","No","No","Yes",0
+"221","LA MESA","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"222","LA MIRADA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","No",1
+"223","LA PALMA","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"224","LA PUENTE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (adopted)",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",0
+"225","LA QUINTA","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"226","LA VERNE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",320,NA,"Yes","Yes",235,NA,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"227","LAFAYETTE","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"228","LAGUNA BEACH","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes (Sufficient Capacity - No zoning required)","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"229","LAGUNA HILLS","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"230","LAGUNA NIGUEL","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"231","LAGUNA WOODS","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"232","LAKE COUNTY","Lake County","Lake County Areawide Planning Council",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"out (adopted)",NA,NA,NA,"5 year",NA,"Yes","No",NA,NA,NA,"TBD",NA,NA,NA,NA,"No","No","No","No","No","Yes",0
+"233","LAKE ELSINORE","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"234","LAKE FOREST","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"235","LAKEPORT","Lake County","Lake County Areawide Planning Council",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","No","Yes","No",1
+"236","LAKEWOOD","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"237","LANCASTER","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","No","Yes",1
+"238","LARKSPUR","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"239","LASSEN COUNTY","Lassen County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"240","LATHROP","San Joaquin County","San Joaquin County Council of Governments ",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"241","LAWNDALE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","No","Yes","Yes","Yes",1
+"242","LEMON GROVE","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"243","LEMOORE","Kings County","Kings County Association of Governments",2014-01-01,2023-12-31,2016-01-31,2024-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","No","No",1
+"244","LINCOLN","Placer County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"245","LINDSAY","Tulare County","Tulare County Association of Governments",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"246","LIVE OAK","Sutter County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"247","LIVERMORE","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"248","LIVINGSTON","Merced County","Merced County Association of Governments",2014-01-01,2023-12-31,2016-03-31,2024-03-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"249","LODI","San Joaquin County","San Joaquin County Council of Governments ",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"250","LOMA LINDA","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","No","Yes",1
+"251","LOMITA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"252","LOMPOC","Santa Barbara County","Santa Barbara Council of Governments",2014-01-01,2022-09-30,2015-02-15,2023-02-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"253","LONG BEACH","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"254","LOOMIS","Placer County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in","Yes",2014-10-31,2018-07-02,"8 Year",NA,"Yes","Yes",60,NA,"yes","Yes",66,NA,"Yes",NA,"No","No","No","No","Yes","Yes",1
+"255","LOS ALAMITOS","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","No","No","No","Yes","Yes",1
+"256","LOS ALTOS","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in - conditional","Yes",2015-08-31,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"257","LOS ALTOS HILLS","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"258","LOS ANGELES","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"259","LOS ANGELES COUNTY","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"260","LOS BANOS","Merced County","Merced County Association of Governments",2014-01-01,2023-12-31,2016-03-31,2024-03-31,"in","Yes",2017-03-31,2019-04-02,"8 Year",NA,"Yes","Yes",81,4.9,"Yes","Yes",625,32,"Partial - 606 units remaining",NA,"No","No","No","Yes","Yes","Yes",1
+"261","LOS GATOS","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",270,13.5,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"262","LOYALTON","Sierra County","Sierra Planning Organization",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"263","LYNWOOD","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"264","MADERA","Madera County","Madera County Transportation Commission",2014-01-01,2023-12-31,2016-01-31,2024-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"265","MADERA COUNTY","Madera County","Madera County Transportation Commission",2014-01-01,2023-12-31,2016-01-31,2024-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"266","MALIBU","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"267","MAMMOTH LAKES","Mono County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"268","MANHATTAN BEACH","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"269","MANTECA","San Joaquin County","San Joaquin County Council of Governments ",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"270","MARICOPA","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"271","MARIN COUNTY","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"272","MARINA","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"out (adopted)",NA,NA,NA,"8 year","Yes","Yes","TBD",NA,NA,NA,"TBD",NA,NA,NA,"Yes","No","No","Yes","Yes","Yes","Yes",0
+"273","MARIPOSA COUNTY","Mariposa County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"274","MARTINEZ","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","Yes","Yes","Yes",1
+"275","MARYSVILLE","Yuba County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"276","MAYWOOD","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (adopted)",NA,NA,NA,"8 Year",NA,"No (Program)","Yes",8,NA,"No","Yes",21,NA,"No",NA,"No","No","No","No","No","No",0
+"277","MCFARLAND","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"278","MENDOCINO COUNTY","Mendocino County","Mendocino Council of Governments ",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","Yes","No","No","No",1
+"279","MENDOTA","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"280","MENIFEE","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"281","MENLO PARK","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"282","MERCED","Merced County","Merced County Association of Governments",2014-01-01,2023-12-31,2016-03-31,2024-03-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"283","MERCED COUNTY","Merced County","Merced County Association of Governments",2014-01-01,2023-12-31,2016-03-31,2024-03-31,"in","Yes",2017-03-31,2017-06-07,"8 Year",NA,"Yes","Yes",974,48.7,"Yes","No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"284","MILL VALLEY","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"285","MILLBRAE","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"286","MILPITAS","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"287","MISSION VIEJO","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"288","MODESTO","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"289","MODOC COUNTY","Modoc County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"290","MONO COUNTY","Mono County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"291","MONROVIA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"292","MONTAGUE","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"293","MONTCLAIR","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"294","MONTE SERENO","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in - conditional","Yes",NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"295","MONTEBELLO","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (draft)",NA,NA,NA,"8 year","Yes","Yes","Yes",147,7.4,NA,"Yes",430,41,NA,NA,"No","No","No","No","No","No",0
+"296","MONTEREY","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","Yes","Yes","Yes","Yes",1
+"297","MONTEREY COUNTY","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"298","MONTEREY PARK","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"299","MOORPARK","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"300","MORAGA","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"301","MORENO VALLEY","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"302","MORGAN HILL","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"303","MORRO BAY","San Luis Obispo County","SLOCOG",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"304","MOUNT SHASTA","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","No","No","No","No",1
+"305","MOUNTAIN VIEW","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"306","MURRIETA","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"307","NAPA","Napa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"308","NAPA COUNTY","Napa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"309","NATIONAL CITY","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"310","NEEDLES","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (due)",NA,NA,NA,"8 year","Yes","Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",0
+"311","NEVADA CITY","Nevada County","Sierra Planning Organization",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"312","NEVADA COUNTY","Nevada County","Sierra Planning Organization",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in","Yes",2015-06-30,2018-10-12,"5 Year",NA,"Yes","Yes",699,43.7,"Yes","No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"313","NEWARK","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"314","NEWMAN","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"Yes",305,9,"No",NA,"No","No","No","No","No","No",1
+"315","NEWPORT BEACH","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"316","NORCO","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"317","NORWALK","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"318","NOVATO","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"319","OAKDALE","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","Yes","Yes","Yes",1
+"320","OAKLAND","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"321","OAKLEY","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"322","OCEANSIDE","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"323","OJAI","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","Yes","Yes","Yes","No",1
+"324","ONTARIO","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",1479,83,"No",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"325","ORANGE","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"326","ORANGE COUNTY","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"327","ORANGE COVE","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"Yes",197,10,"No",NA,"No","No","No","No","No","Yes",1
+"328","ORINDA","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"329","ORLAND","Glenn County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"330","OROVILLE","Butte County","Butte County Association of Governments",2014-01-01,2022-06-15,2014-06-15,2022-06-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"331","OXNARD","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in - conditional","Yes",2018-12-31,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"332","PACIFIC GROVE","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes","No",1
+"333","PACIFICA","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"334","PALM DESERT","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"335","PALM SPRINGS","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in - conditional","Yes",2015-12-31,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"336","PALMDALE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","No","Yes","Yes",1
+"337","PALO ALTO","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"338","PALOS VERDES ESTATES","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"339","PARADISE","Butte County","Butte County Association of Governments",2014-01-01,2022-06-15,2014-06-15,2022-06-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","No","Yes","Yes","Yes",1
+"340","PARAMOUNT","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",404,NA,"Yes","Yes",42,NA,"Yes",NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"341","PARLIER","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",61,5,"No",NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"342","PASADENA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"343","PASO ROBLES","San Luis Obispo County","SLOCOG",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"344","PATTERSON","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",496,NA,"No",NA,"No","No","No","No","No","No",1
+"345","PERRIS","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"346","PETALUMA","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"347","PICO RIVERA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",345,NA,"No","Yes",348,NA,"No",NA,"No","No","No","No","No","No",1
+"348","PIEDMONT","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","Yes","Yes","Yes",1
+"349","PINOLE","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"350","PISMO BEACH","San Luis Obispo County","SLOCOG",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"out (draft)",NA,NA,NA,"5 Year",NA,"Yes","Yes",26,NA,NA,"Yes",59,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",0
+"351","PITTSBURG","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"352","PLACENTIA","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"353","PLACER COUNTY","Placer County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"354","PLACERVILLE","El Dorado County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in","Yes",2014-10-31,2017-03-14,"8 Year",NA,"Yes","Yes",106,NA,"Yes","Yes",133,NA,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"355","PLEASANT HILL","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"356","PLEASANTON","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"357","PLUMAS COUNTY","Plumas County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"out (due)",NA,NA,NA,"5 Year",NA,"Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",0
+"358","PLYMOUTH","Amador County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","Yes",26,1.63,"Yes","No",NA,NA,NA,NA,"No","No","No","No","Yes","No",1
+"359","POINT ARENA","Mendocino County","Mendocino Council of Governments ",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"360","POMONA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (adopted)",NA,NA,NA,"8 Year",NA,"No (Program)","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","No","No",0
+"361","PORT HUENEME","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"362","PORTERVILLE","Tulare County","Tulare County Association of Governments",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"363","PORTOLA","Plumas County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"364","PORTOLA VALLEY","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"365","POWAY","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",85,3.99,"No",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"366","RANCHO CORDOVA","Sacramento County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"367","RANCHO CUCAMONGA","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"368","RANCHO MIRAGE","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"369","RANCHO PALOS VERDES","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"370","RANCHO SANTA MARGARITA","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"371","RED BLUFF","Tehama County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"372","REDDING","Shasta County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"373","REDLANDS","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"374","REDONDO BEACH","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"375","REDWOOD CITY","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"376","REEDLEY","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"377","RIALTO","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (due)",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",0
+"378","RICHMOND","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","No",1
+"379","RIDGECREST","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"380","RIO DELL","Humboldt County","Humboldt County Association of Governments",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"out (due)",NA,NA,NA,"5 Year",NA,"Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","No","No","Yes",0
+"381","RIO VISTA","Solano County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"382","RIPON","San Joaquin County","San Joaquin County Council of Governments ",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"383","RIVERBANK","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in","Yes",2016-12-31,2018-05-21,"8 Year",NA,"Yes","Yes",17,NA,"Yes","No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"384","RIVERSIDE","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","Yes","Yes","Yes",1
+"385","RIVERSIDE COUNTY","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year","Yes","Yes","Yes",14968,1393,"Yes","Yes",12044,2372,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"386","ROCKLIN","Placer County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",1769,261.4,"No",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"387","ROHNERT PARK","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"388","ROLLING HILLS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (adopted)",NA,NA,NA,"8 Year",NA,"TBD","TBD",NA,NA,NA,"TBD",NA,NA,NA,NA,"No","No","No","No","No","No",0
+"389","ROLLING HILLS ESTATES","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"390","ROSEMEAD","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"391","ROSEVILLE","Placer County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"392","ROSS","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"393","SACRAMENTO","Sacramento County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"394","SACRAMENTO COUNTY","Sacramento County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"395","SAINT HELENA","Napa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in - conditional","Yes",2016-05-31,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"396","SALINAS","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"397","SAN ANSELMO","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"398","SAN BENITO COUNTY","San Benito County","San Benito County Council of Governments",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in - conditional","Yes",2016-12-15,NA,"8 Year",NA,"Yes","Yes",646,10,"Yes","No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"399","SAN BERNARDINO","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","Yes","No","No","Yes","Yes",1
+"400","SAN BERNARDINO COUNTY","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"401","SAN BRUNO","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",354,NA,"No",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"402","SAN BUENAVENTURA","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",1
+"403","SAN CARLOS","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","No","Yes","Yes","Yes",1
+"404","SAN CLEMENTE","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in - conditional","Yes",2018-12-31,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"405","SAN DIEGO","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"406","SAN DIEGO COUNTY","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"407","SAN DIMAS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"408","SAN FERNANDO","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"409","SAN FRANCISCO","San Francisco County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"410","SAN GABRIEL","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"411","SAN JACINTO","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","No","Yes","Yes","Yes",1
+"412","SAN JOAQUIN","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"413","SAN JOAQUIN COUNTY","San Joaquin County","San Joaquin County Council of Governments ",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"414","SAN JOSE","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"415","SAN JUAN BAUTISTA","San Benito County","San Benito County Council of Governments",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"out (draft)",NA,NA,NA,"8 year","Yes","No (Program)","No",NA,NA,NA,"Yes",12,NA,"No",NA,"No","No","No","No","No","Yes",0
+"416","SAN JUAN CAPISTRANO","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"417","SAN LEANDRO","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"418","SAN LUIS OBISPO","San Luis Obispo County","SLOCOG",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"419","SAN LUIS OBISPO COUNTY","San Luis Obispo County","SLOCOG",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"420","SAN MARCOS","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"421","SAN MARINO","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"422","SAN MATEO","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"423","SAN MATEO COUNTY","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"424","SAN PABLO","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"425","SAN RAFAEL","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes","Yes",1
+"426","SAN RAMON","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes","Yes",1
+"427","SAND CITY","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in - conditional","Yes",2016-12-15,2019-06-06,"8 Year",NA,"Yes","Yes",41,NA,"Yes","No",NA,NA,NA,"Yes","No","No","No","No","No","Yes",1
+"428","SANGER","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in - conditional","Yes",NA,NA,"8 Year",NA,"Yes","Yes",796,NA,"No","Yes",284,14.2,"No",NA,"No","No","No","Yes","No","No",1
+"429","SANTA ANA","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in","Yes",2014-10-15,2018-05-22,"8 Year",NA,"Yes","Yes",201,10.1,"Yes","No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"430","SANTA BARBARA","Santa Barbara County","Santa Barbara Council of Governments",2014-01-01,2022-09-30,2015-02-15,2023-02-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"431","SANTA BARBARA COUNTY","Santa Barbara County","Santa Barbara Council of Governments",2014-01-01,2022-09-30,2015-02-15,2023-02-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"432","SANTA CLARA","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","No","Yes","Yes","Yes","Yes",1
+"433","SANTA CLARA COUNTY","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"434","SANTA CLARITA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"435","SANTA CRUZ","Santa Cruz County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"436","SANTA CRUZ COUNTY","Santa Cruz County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"437","SANTA FE SPRINGS","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"438","SANTA MARIA","Santa Barbara County","Santa Barbara Council of Governments",2014-01-01,2022-09-30,2015-02-15,2023-02-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"439","SANTA MONICA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"440","SANTA PAULA","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","No","Yes","Yes",1
+"441","SANTA ROSA","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","No",1
+"442","SANTEE","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"443","SARATOGA","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"444","SAUSALITO","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"445","SCOTTS VALLEY","Santa Cruz County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"446","SEAL BEACH","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","No","Yes",1
+"447","SEASIDE","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"out (draft)",NA,NA,NA,"8 year","Yes","Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",0
+"448","SEBASTOPOL","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"449","SELMA","Fresno County","Council of Fresno County Governments",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"out (adopted)","Yes",NA,NA,"8 Year",NA,"Yes","Yes",169,8.5,"No","No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","No",0
+"450","SHAFTER","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","No","No",1
+"451","SHASTA COUNTY","Shasta County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"Yes",197,9.85,"No",NA,"No","No","No","No","Yes","Yes",1
+"452","SHASTA LAKE","Shasta County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"453","SIERRA COUNTY","Sierra County","Sierra Planning Organization",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"454","SIERRA MADRE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"455","SIGNAL HILL","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"456","SIMI VALLEY","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"457","SISKIYOU COUNTY","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","No","No","No","No",1
+"458","SOLANA BEACH","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"459","SOLANO COUNTY","Solano County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"460","SOLEDAD","Monterey County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"461","SOLVANG","Santa Barbara County","Santa Barbara Council of Governments",2014-01-01,2022-09-30,2015-02-15,2023-02-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","Yes","Yes","Yes","Yes",1
+"462","SONOMA","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","Yes","Yes","Yes",1
+"463","SONOMA COUNTY","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"464","SONORA","Tuolumne County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"465","SOUTH EL MONTE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (adopted)",NA,NA,NA,"8 year","Yes","Yes","Yes",43,NA,"Yes","Yes",35,NA,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",0
+"466","SOUTH GATE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"467","SOUTH LAKE TAHOE","El Dorado County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","Yes","Yes",1
+"468","SOUTH PASADENA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"469","SOUTH SAN FRANCISCO","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"470","STANISLAUS COUNTY","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"471","STANTON","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"472","STOCKTON","San Joaquin County","San Joaquin County Council of Governments ",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"473","SUISUN CITY","Solano County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"474","SUNNYVALE","Santa Clara County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"475","SUSANVILLE","Lassen County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"476","SUTTER COUNTY","Sutter County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",NA,9.41,"Yes","Yes",33,4.14,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"477","SUTTER CREEK","Amador County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"478","TAFT","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"479","TEHACHAPI","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"480","TEHAMA","Tehama County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","No","Yes","Yes",1
+"481","TEHAMA COUNTY","Tehama County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","No","Yes","Yes","Yes",1
+"482","TEMECULA","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",2007,NA,"Yes","No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"483","TEMPLE CITY","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"484","THOUSAND OAKS","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"485","TIBURON","Marin County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"486","TORRANCE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes","Yes",1
+"487","TRACY","San Joaquin County","San Joaquin County Council of Governments ",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",506,NA,"No",NA,"No","No","Yes","Yes","Yes","Yes",1
+"488","TRINIDAD","Humboldt County","Humboldt County Association of Governments",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"out (due)",NA,NA,NA,"5 Year",NA,"Unknown","Unknown",NA,NA,NA,"Unknown",NA,NA,NA,NA,"No","No","No","No","No","No",0
+"489","TRINITY COUNTY","Trinity County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"490","TRUCKEE","Nevada County","Sierra Planning Organization",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in","Yes",2015-06-30,2018-12-03,"5 Year",NA,"Yes","Yes",304,NA,"yes","Yes",83,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"491","TULARE","Tulare County","Tulare County Association of Governments",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in - conditional","Yes",2016-12-31,NA,"8 Year",NA,"Yes","Yes",969,NA,"No","Yes",1010,NA,"No","Yes","No","Yes","Yes","Yes","Yes","Yes",1
+"492","TULARE COUNTY","Tulare County","Tulare County Association of Governments",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"493","TULELAKE","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"494","TUOLUMNE COUNTY","Tuolumne County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"495","TURLOCK","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"496","TUSTIN","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"497","TWENTYNINE PALMS","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in","Yes",2014-10-15,2018-05-21,"8 Year",NA,"Yes","Yes",1182,NA,"Yes","No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"498","UKIAH","Mendocino County","Mendocino Council of Governments ",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"499","UNION CITY","Alameda County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in","Yes",2016-01-31,2018-05-11,"8 year",NA,"Yes","Yes",84,NA,"Yes","Yes",70,NA,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"500","UPLAND","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes",1
+"501","VACAVILLE","Solano County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"502","VALLEJO","Solano County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","Yes","Yes","Yes",1
+"503","VENTURA COUNTY","Ventura County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"504","VERNON","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","No","Yes",1
+"505","VICTORVILLE","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in - conditional","Yes",2015-09-30,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","No","Yes","Yes",1
+"506","VILLA PARK","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 year","Yes","Yes","Yes",3,NA,"Yes","Yes",5,NA,"Yes",NA,"No","No","No","No","Yes","Yes",1
+"507","VISALIA","Tulare County","Tulare County Association of Governments",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"508","VISTA","San Diego County","SANDAG",2010-01-01,2020-12-31,2013-04-30,2021-04-30,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"509","WALNUT","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","No","Yes","Yes","Yes",1
+"510","WALNUT CREEK","Contra Costa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","Yes","Yes","Yes",1
+"511","WASCO","Kern County","KernCOG",2013-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","Yes","Yes","Yes","Yes",1
+"512","WATERFORD","Stanislaus County","Stanislaus Council of Governments ",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",141,NA,"Yes","No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"513","WATSONVILLE","Santa Cruz County","AMBAG",2014-01-01,2023-12-31,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","No","No","No","Yes","Yes","Yes",1
+"514","WEED","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"515","WEST COVINA","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"516","WEST HOLLYWOOD","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"517","WEST SACRAMENTO","Yolo County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"518","WESTLAKE VILLAGE","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (adopted)",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",42,NA,"No",NA,"No","No","No","No","Yes","Yes",0
+"519","WESTMINSTER","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"520","WESTMORLAND","Imperial County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"out (adopted)",NA,NA,NA,"8 year","Yes","Yes","Yes",103,NA,"No","Yes",92,NA,"No",NA,"Yes","Yes","Yes","Yes","Yes","Yes",0
+"521","WHEATLAND","Yuba County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"out (draft)",NA,NA,NA,"8 year","Yes","Unknown","Unknown",343,NA,NA,"Unknown",186,NA,NA,NA,"No","No","No","No","Yes","No",0
+"522","WHITTIER","Los Angeles County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"523","WILDOMAR","Riverside County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","Yes",538,NA,"Yes","Yes",521,25.96,"Yes",NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"524","WILLIAMS","Colusa County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","No",1
+"525","WILLITS","Mendocino County","Mendocino Council of Governments ",2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","No","No","No","Yes",1
+"526","WILLOWS","Glenn County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in - conditional","Yes",2015-10-31,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"527","WINDSOR","Sonoma County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"528","WINTERS","Yolo County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"529","WOODLAKE","Tulare County","Tulare County Association of Governments",2014-01-01,2023-09-30,2015-12-31,2023-12-31,"in",NA,NA,NA,"8 year","Yes","Yes","No",NA,NA,NA,"No",NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes","Yes",1
+"530","WOODLAND","Yolo County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"Yes",230,5,"Yes",NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"531","WOODSIDE","San Mateo County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"532","YOLO COUNTY","Yolo County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"533","YORBA LINDA","Orange County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","Yes","Yes","Yes","Yes","Yes",1
+"534","YOUNTVILLE","Napa County","ABAG",2014-01-01,2022-10-31,2015-01-31,2023-01-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"No","No","Yes","Yes","Yes","Yes",1
+"535","YREKA","Siskiyou County",NA,2014-01-01,2019-06-30,2014-06-30,2019-06-30,"in",NA,NA,NA,"5 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"536","YUBA CITY","Sutter County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","No",1
+"537","YUBA COUNTY","Yuba County","SACOG",2013-01-01,2021-10-31,2013-10-31,2021-10-31,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","No","No","No","No","No",1
+"538","YUCAIPA","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1
+"539","YUCCA VALLEY","San Bernardino County","SCAG",2014-01-01,2021-10-31,2013-10-15,2021-10-15,"in",NA,NA,NA,"8 Year",NA,"Yes","No",NA,NA,NA,"No",NA,NA,NA,NA,"Yes","Yes","Yes","Yes","Yes","Yes",1

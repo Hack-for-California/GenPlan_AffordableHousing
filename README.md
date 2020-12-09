@@ -12,6 +12,7 @@ In this project, we have two primary goals: first, to understand to what extent 
 | -----------    | ---- |
 |                |      |
 |                |      |
+|  [🤔](https://github.com/Hack-for-California/GenPlan_AffordableHousing) [🔣](https://github.com/Hack-for-California/GenPlan_AffordableHousing)              |   Makenna Harrison   |  
 
 (For a key to the contribution emoji or more info on this format, check out [“All Contributors.”](https://allcontributors.org/docs/en/emoji-key))
 
@@ -27,14 +28,19 @@ All written materials are licensed with a Creative Commons Attribution-ShareAlik
 Contact hack-for-california@ucdavis.edu
 
 ## Definitions and Data Sources
-
-Housing Implementation Tracker: sourced from [CA Housing and Community Development](https://www.hcd.ca.gov/community-development/housing-element/index.shtml).
+* Housing Implementation Tracker: sourced from [CA Housing and Community Development](https://www.hcd.ca.gov/community-development/housing-element/index.shtml).
+* Housing Cost Burden: sourced from [CA Open Data Portal](https://data.ca.gov/dataset/housing-cost-burden).
+* CA Affordable Housing and Sustainable Communities: sourced from [CA Open Data Portal](https://data.ca.gov/dataset/california-affordable-housing-and-sustainable-communities).
+* CA Geographic Boundaries: sourced from [CA Open Data Portal](https://data.ca.gov/dataset/ca-geographic-boundaries).
+* CA Latitude and Longitude Map: sourced from [Maps of World](https://www.mapsofworld.com/usa/states/california/lat-long.html).
+* CA Quick Facts: sourced from [US Census Bureau](https://www.census.gov/quickfacts/fact/dashboard/CA/PST120219#PST120219).
+* CA Annual Planning Survey Results: sourced from [CA Governor's Office of Planning and Research](https://opr.ca.gov/publications.html).
 
 ## Data Collection and Update Process
 
 ## Progress
-Text analysis: explored text file structure in R, created wordclouds
-Data visualization: cleaned Housing Implementation Tracker data, started interactive map of California
+* Text analysis: explored text file structure in R, and created wordclouds for six California city General Plans
+* Data visualization: cleaned Housing Implementation Tracker data, started interactive map of California
 
 ## Plans
 * Text analysis: clean text data, find missing General Plans, check if out of compliance cities are really out of compliance, develop key words, natural language processing

@@ -2,6 +2,11 @@
 
 ## About
 
+Each city and county in California is required to produce a General Plan, a document that outlines and commits local governments to long-term development goals. Planning laws in the State of California mandate that every General Plan address a common set of issues, including Land Use, Conservation, and Housing. However, such laws do not specify where in the General Plan such issues need to be addressed or the format of the Plan overall. Thus, while General Plans offer the most comprehensive blueprint for future visioning of cities and counties throughout California, the structure and format of the Plans vary considerably across cities and counties. This makes it difficult to readily compare planning approaches across the state, to comparatively evaluate progress towards planning goals, and to set benchmarks for policy success. The [General Plan Map](https://critical-data-analysis.org/general-plan-map/) provides access to the text of all California city General Plans and enables users to query for a single search term to determine the plans in which that term is referenced. Upon searching, the tool filters a map to the cities in CA with General Plans that reference the word, offering a geospatial representation of the term's use. The tool also links to the plans that reference the term. Users can click through to the plans and search within the page for the term.
+
+In this project, we have two primary goals: first, to understand to what extent cities are following through on proposed planning around affordable housing. Cities are required to list how they plan to address affordable housing in their general plans and to date there has been no systematic way to compare their blueprint in the Plans to what they actually produce. The General Plan Map now allows this, so we hope to use it to facilitate this research. The second goal is to demonstrate how the General Plan Mapping Tool can be used in support of policy research and outline any issues that we experience along the way.
+
+
 ## Contributors
 | Contributions  | Name |
 | -----------    | ---- |
@@ -9,8 +14,6 @@
 |                |      |
 
 (For a key to the contribution emoji or more info on this format, check out [“All Contributors.”](https://allcontributors.org/docs/en/emoji-key))
-
-## How to Access
 
 ## How to Provide Feedback
 Questions, bug reports, and feature requests can be submitted to this repo's [issue queue](https://github.com/Hack-for-California/GenPlan_AffordableHousing/issues).
@@ -25,7 +28,17 @@ Contact hack-for-california@ucdavis.edu
 
 ## Definitions and Data Sources
 
+Housing Implementation Tracker: sourced from [CA Housing and Community Development](https://www.hcd.ca.gov/community-development/housing-element/index.shtml).
+
 ## Data Collection and Update Process
+
+## Progress
+Text analysis: explored text file structure in R, created wordclouds
+Data visualization: cleaned Housing Implementation Tracker data, started interactive map of California
+
+## Plans
+* Text analysis: clean text data, find missing General Plans, check if out of compliance cities are really out of compliance, develop key words, natural language processing
+* Data visualization: collect demographic data, collect city specific data, and collect RHNA data
 
 ## Repository Structure
 

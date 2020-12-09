@@ -12,6 +12,7 @@ In this project, we have two primary goals: first, to understand to what extent 
 | -----------    | ---- |
 |                |      |
 |                |      |
+|  [🤔](https://github.com/Hack-for-California/GenPlan_AffordableHousing) [🔣](https://github.com/Hack-for-California/GenPlan_AffordableHousing)              |   Ninh Nguyen   |
 |  [🤔](https://github.com/Hack-for-California/GenPlan_AffordableHousing) [🔣](https://github.com/Hack-for-California/GenPlan_AffordableHousing)              |   Makenna Harrison   |  
 
 (For a key to the contribution emoji or more info on this format, check out [“All Contributors.”](https://allcontributors.org/docs/en/emoji-key))
